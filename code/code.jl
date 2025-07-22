@@ -440,7 +440,7 @@ function solve_imex_return_stages(rhs_stiff!, rhs_stiff_operator, rhs_nonstiff!,
             @. tmp += b_stiff[j] * k_stiff[j] + b_nonstiff[j] * k_nonstiff[j]
         end
 
-        if Relaxation
+        if relaxation
             @. y = dt * tmp # = qnew - q
             gamma = -2 * dot_entropy(q, y, parameters) / dot_entropy(y, y, parameters)
             @. q = q + gamma * y
