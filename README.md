@@ -1,7 +1,7 @@
 # Convergence of hyperbolic approximations to higher-order PDEs for smooth solutions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/TODO.svg)](https://doi.org/TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16748605.svg)](https://doi.org/10.5281/zenodo.16748605)
 
 This repository contains information and code to reproduce the results presented in the
 article
@@ -28,7 +28,7 @@ use the implementations provided here, please **also** cite this repository as
   author={Giesselmann, Jan and Ranocha, Hendrik},
   year={2025},
   howpublished={\url{https://github.com/ranocha/2025_relative_energy_hyperbolization}},
-  doi={TODO}
+  doi={10.5281/zenodo.16748605}
 }
 ```
 
