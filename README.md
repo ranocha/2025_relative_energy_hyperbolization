@@ -11,8 +11,8 @@ article
          smooth solutions},
   author={Giesselmann, Jan and Ranocha, Hendrik},
   year={2025},
-  month={TODO},
-  eprint={TODO},
+  month={08},
+  eprint={2508.04112},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
